@@ -37,7 +37,7 @@ section {
 }
 
 .hero {
-  background-image: url('header-background.svg');
+  background-image: url('../img/header-background.svg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
